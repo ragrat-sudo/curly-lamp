@@ -1,0 +1,18 @@
+PS C:\> Test-NetConnection -InformationLevel "Detailed"
+ComputerName           : internetbeacon.msedge.net
+
+RemoteAddress          : 2a01:111:2003::52
+
+NameResolutionResults  : 2a01:111:2003::52
+
+                         13.107.4.52
+
+InterfaceAlias         : Ethernet
+
+SourceAddress          : 2001:4898:d8:33:81e8:7b49:8bf5:8710
+
+NetRoute (NextHop)     : fe80::200:5eff:fe00:203
+
+PingSucceeded          : True
+
+PingReplyDetails (RTT) : 6 ms
